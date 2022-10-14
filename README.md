@@ -1,7 +1,8 @@
 <div align="center" id="top">
   <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
-  <a href="https://profile-readme-generator.com">Demo</a>
+<a href="https://profile-readme-generator.com">Demo</a>
+
 </div>
 
 <div align="center">
@@ -39,7 +40,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
   <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
@@ -48,12 +48,11 @@
   <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
 </p>
 
-## :dart: About ##
+## :dart: About
 
 Tired of editing your github profile? Looking for some **cool readme** to do a `ctrl+c ctrl+v`? Or are you tired of missing out on the **amazing features** you can add to your readme? What about configuring github actions? 😩 **Come on!**
 
 Beautify your github profile with this amazing tool, creating the readme your way in a simple and fast way! Include what you want, place it wherever you want, however you want! (<i>But of course, respecting the limits of what is possible to do in markdown</i> 😁)
-
 
 <p align="center">
   <i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating</a> 💸 to help it improve!</i>
@@ -61,7 +60,7 @@ Beautify your github profile with this amazing tool, creating the readme your wa
 
 https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
 
-## :rocket: Main Technologies ##
+## :rocket: Main Technologies
 
 <a href="https://nextjs.org">
   <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
@@ -92,23 +91,23 @@ https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-
 <details>
   <summary>See more</summary>
 
-  ###
+###
 
-  * [Styled Icons (Feather Icons)](https://styled-icons.js.org)
-  * [Styled Media Query](https://github.com/morajabi/styled-media-query)
-  * [Framer Motion](https://framer.com/motion/)
-  * [HTML Prettify](https://github.com/Dmc0125/html-prettify)
-  * [React Share](https://github.com/nygardk/react-share)
-  * [Prismjs](https://prismjs.com)
-  * [UUID](https://www.npmjs.com/package/uuid)
+- [Styled Icons (Feather Icons)](https://styled-icons.js.org)
+- [Styled Media Query](https://github.com/morajabi/styled-media-query)
+- [Framer Motion](https://framer.com/motion/)
+- [HTML Prettify](https://github.com/Dmc0125/html-prettify)
+- [React Share](https://github.com/nygardk/react-share)
+- [Prismjs](https://prismjs.com)
+- [UUID](https://www.npmjs.com/package/uuid)
 
 </details>
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Requirements
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Starting
 
 ```bash
 # Clone this project
@@ -133,16 +132,3 @@ $ yarn dev
 - `start`: starts the application in production mode at `localhost:3000` (have run the build before)
 - `test`: run the tests
 - `lint`: run eslint in /src
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
-
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
